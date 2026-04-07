@@ -1,5 +1,7 @@
-📡 Analysis of Directional Coupler
-🧪 Aim
+ Analysis of Directional Coupler
+
+ 
+ Aim
 
 To analyze the performance of a Directional Coupler by determining its key parameters:
 
@@ -7,7 +9,9 @@ Coupling Factor
 Insertion Loss
 Isolation
 Directivity
-📚 Theory
+
+ 
+Theory
 
 A Directional Coupler is a passive microwave device used to sample a portion of power from a transmission line. It has four ports:
 
@@ -15,7 +19,9 @@ Input Port
 Through Port
 Coupled Port
 Isolated Port
-🔑 Key Parameters
+
+
+ Key Parameters
 
 1. Coupling Factor (C)
 
@@ -38,11 +44,15 @@ RF Signal Generator
 Power Meter
 VSWR Meter (optional)
 Connecting cables
-🔌 Setup Diagram
+
+
+Setup Diagram
+
 RF Source ───► Directional Coupler ───► Load
                      │
                      ▼
                 Coupled Port → Power Meter
+
 ⚙️ Procedure
 Connect RF source to the input port.
 Connect the through port to a matched load.
@@ -53,26 +63,33 @@ Coupled Power (Pcoupled)
 Output Power (Poutput)
 Isolated Power (Pisolated)
 Calculate all parameters using formulas.
-📊 Observation Table
+
+ 
+ Observation Table
 Parameter	Value (dB)
 Input Power	
 Coupled Power	
 Output Power	
 Isolated Power	
-🧮 Calculations
+Calculations
 Coupling Factor = ____2__ dB
 Insertion Loss = ____3__ dB
 
-✅ Result
+
+ Result
+
+
 
 The directional coupler was successfully analyzed and its performance parameters were calculated.
 
-⚠️ Precautions
+ Precautions
+
 Ensure proper impedance matching (50 Ω).
 Avoid loose connections.
 Do not exceed power limits.
 Calibrate instruments before use.
-🚀 Applications
+
+ Applications
 RF power monitoring
 Signal sampling
 VSWR measurement
