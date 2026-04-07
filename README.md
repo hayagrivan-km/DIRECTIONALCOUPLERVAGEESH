@@ -78,7 +78,3 @@ Signal sampling
 VSWR measurement
 Microwave communication systems
 
-👨‍💻 Author
-
-R.K. Vageesh Ragav
-B.E. ECE | Saveetha Engineering College
